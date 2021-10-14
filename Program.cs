@@ -8,7 +8,7 @@ namespace ProyectoGitPrueba
         {
             Console.WriteLine("Hello World!");
 
-            // La vida es dura noooooooo!
+            // Editando desde GitHub!
 
             
         }
